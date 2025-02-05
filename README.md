@@ -1,6 +1,6 @@
 # Super_Store_Sales_Dashboard
 <h2>Project Objective</h2>
-<h3>To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.</h3>
+<h3>Developed a Sales Dashboard to provide insights for sales strategy optimization and accurate forecasting using time series analysis.</h3>
 <h2>Description</h2>
 <h3>The objective can be broken down into the following detailed components:</h3>
 <h3>1.) Dashboard Creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity</h3>

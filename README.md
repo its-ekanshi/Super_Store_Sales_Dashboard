@@ -30,3 +30,11 @@ The forecast section predicts sales for the next 15 days, enabling proactive res
 - **California** leads with the highest sales at **0.34M**.  
 - Other notable states include **New York (0.19M), Texas (0.12M),** and **Washington (0.09M)**.
 
+### 📷 Dashboard Visualizations  
+#### Sales Dashboard  
+![Super Store Sales Dashboard](dashboard%20(SS).png)  
+
+#### Sales Forecast Dashboard  
+![Sales Forecast Dashboard](dashboard%20(SS-2).png)  
+  
+

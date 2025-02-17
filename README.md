@@ -37,4 +37,6 @@ The forecast section predicts sales for the next 15 days, enabling proactive res
 #### Sales Forecast Dashboard  
 ![Sales Forecast Dashboard](dashboard%20(SS-2).png)  
   
+## 📩 Connect with Me
+📧 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/) | 🔗 [GitHub](https://github.com/its-ekanshi/)
 
